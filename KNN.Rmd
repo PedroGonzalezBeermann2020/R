@@ -1,0 +1,68 @@
+---
+title: "KKN"
+author: "Pedro González"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+pacman::p_load(pacman,dplyr,GGally,ggplot2,ggthemes,ggvis,httr,lubridate,plotly,rio,rmarkdown,shiny,stringr,tidyr,tidyverse,lattice,caret,pls,MASS,yarrr,psych,ggcorrplot,GGally,CCA,CCP,rpart,rpart.plot,ggrepel)
+```
+
+```{r}
+library(tidyverse)
+library(rpart)
+library(rpart.plot)
+library(caret)
+library(rio)
+library(stats)
+```
+
+```{r}
+datos<-import("CafesFincasTMod.xlsx")
+datos
+```
+
+
+```{r}
+
+
+# Supongamos que tienes las siguientes variables: temperatura, dias_fermentacion, altitud y calidad
+# Ajusta el número de vecinos (k) según tus necesidades
+k <- 5
+
+# Crear una matriz con las variables predictoras (excluyendo la variable objetivo 'calidad')
+X <- datos[, c("T", "Dias", "Altitud")]
+
+# Variable objetivo (calidad)
+y <- datos$Puntaje
+
+# Normaliza las variables predictoras (opcional pero recomendado)
+X_norm <- scale(X)
+
+# Crea el modelo KNN
+library(class)
+modelo_knn <- knn(train = X_norm, test = X_norm, cl = y, k = k)
+
+# Evalúa el rendimiento del modelo (por ejemplo, precisión)
+precision <- sum(modelo_knn == y) / length(y)
+cat("Precisión del modelo KNN:", precision, "\n")
+
+# Puedes usar el modelo para predecir la calidad para nuevos datos
+nuevos_datos <- data.frame(temperatura = c(25, 28, 30),
+                           dias_fermentacion = c(2, 3, 4),
+                           altitud = c(1200, 1300, 1400))
+
+nuevos_datos_norm <- scale(nuevos_datos)
+predicciones <- knn(train = X_norm, test = nuevos_datos_norm, cl = y, k = k)
+
+# Imprime las predicciones
+cat("Predicciones de calidad para nuevos datos:\n")
+print(predicciones)
+
+```
+

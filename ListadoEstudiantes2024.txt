@@ -1,4 +1,3 @@
-name,phone,email,
 YESSICA GUTIERREZ,60012015,yessica.gutierrez@unachi.ac.pa
 MELVIN CORONEL,60027504,melvin.coronel@unachi.ac.pa
 ARIADY AROSEMENA,60033319,ariady.arosemena@unachi.ac.pa
@@ -276,7 +275,7 @@ ANGELY BATISTA,61452179,angely.batista@unachi.ac.pa
 VICENTE MONTEZUMA,61452179,vicente.montezuma_1@unachi.ac.pa
 LUIS CASTILLO,61452179,luis.castillo10@unachi.ac.pa
 ANA ALVAREZ,61452179,ana.alvarez2@unachi.ac.pa
-JACIEL GÒMEZ,61458873,jaciel.gomez@unachi.ac.pa
+JACIEL GÃ’MEZ,61458873,jaciel.gomez@unachi.ac.pa
 BENEDICK APARICIO,61467948,benedick.aparicio@unachi.ac.pa
 AUSBERTO DE GRACIA,61482552,ausberto.degracia@unachi.ac.pa
 ZULEIKA PALACIO,61488191,zuleika.palacio@unachi.ac.pa
@@ -3574,7 +3573,7 @@ DIMARIS DE GRACIA,64945304,dimaris.degracia@unachi.ac.pa
 NAYELIS SUIRA,64945344,nayelis.suira@unachi.ac.pa
 SHELSY MARTINEZ,64945375,shelsy.martinez@unachi.ac.pa
 BOLIVAR MORENO,64945983,bolivar.moreno@unachi.ac.pa
-JOISY HERNÀNDEZ,64946224,joisy.hernandez@unachi.ac.pa
+JOISY HERNÃ€NDEZ,64946224,joisy.hernandez@unachi.ac.pa
 SAIRY SANJUR,64947588,sairy.sanjur@unachi.ac.pa
 ROLANDO ORTEGA,64948010,rolando.ortega1@unachi.ac.pa
 ANYELI TEMPLE,64948949,anyeli.temple@unachi.ac.pa
@@ -5396,7 +5395,7 @@ MERCEDES BEJERANO,67016068,mercedes.bejerano1@unachi.ac.pa
 JONATHAN PINEDA,67018535,jonathan.pineda@unachi.ac.pa
 EVELYN CARRERA,67018825,evelyn.carrera@unachi.ac.pa
 YENIFFER SANTOS,67019978,yeniffer.santos@unachi.ac.pa
-YANISETH YANGÜEZ,67024531,yaniseth.yanguez@unachi.ac.pa
+YANISETH YANGÃœEZ,67024531,yaniseth.yanguez@unachi.ac.pa
 MASSIEL SANTAMARIA,67023189,massiel.santamaria@unachi.ac.pa
 RICARDO BELL,67024096,ricardo.bell@unachi.ac.pa
 CELIDETH SANTOS,67024465,celideth.santos@unachi.ac.pa
@@ -6144,7 +6143,7 @@ MARISOL TROTTMAN,67852379,marisol.trottman@unachi.ac.pa
 STEPHANIE CASTILLO,67852680,stephanie.castillo5@unachi.ac.pa
 KELINETH MORA,67852951,kelineth.mora@unachi.ac.pa
 PAOLA CORDOBA,67853256,paola.cordoba@unachi.ac.pa
-EMILIO D´ANGELO,67853599,emilio.dnangelo@unachi.ac.pa
+EMILIO DÂ´ANGELO,67853599,emilio.dnangelo@unachi.ac.pa
 JAFETH ALMENGOR,67854253,jafeth.almengor@unachi.ac.pa
 YENY ISCOA,67854545,yeny.iscoa@unachi.ac.pa
 JOSHUA ROBLES,67855818,joshua.robles@unachi.ac.pa
@@ -6164,7 +6163,7 @@ LEA FLORES,67865691,lea.flores@unachi.ac.pa
 EMELYN CABALLERO,67866572,emelyn.caballero1@unachi.ac.pa
 ELIDIA ROCA,67866944,elidia.roca@unachi.ac.pa
 YARISBETH GARAY,67867320,yarisbeth.garay@unachi.ac.pa
-JOSÈ PITTY,67868794,jose.pitty@unachi.ac.pa
+JOSÃˆ PITTY,67868794,jose.pitty@unachi.ac.pa
 ANITZA APARICIO,67869201,anitza.aparicio@unachi.ac.pa
 ALEJANDRA CASTRELLON,67869877,alejandra.castrellon@unachi.ac.pa
 MARIANA MIRANDA,67875326,mariana.santamaria@unachi.ac.pa
@@ -6269,7 +6268,7 @@ CARLOS PALACIOS,67981443,carlos.palacios2@unachi.ac.pa
 NOELI VALDES,67983710,noely.valdes@unachi.ac.pa
 MARYURI PASCACIO,67985397,maryuri.pascacio@unachi.ac.pa
 JOANETH  NUnEZ,67987704,joaneth.nunez@unachi.ac.pa
-CLAUDIA MARQUÌNEZ,67990460,claudia.marquinez@unachi.ac.pa
+CLAUDIA MARQUÃŒNEZ,67990460,claudia.marquinez@unachi.ac.pa
 YULIANIS LEZCANO,67991551,yulianis.lezcano@unachi.ac.pa
 OMAR CHAVEZ,67992096,omar.chavez2@unachi.ac.pa
 KAYCEE BEERMANN,67992240,kaycee.beermann@unachi.ac.pa
@@ -6355,7 +6354,7 @@ KATIA TEJADA,68060293,katia.tejada@unachi.ac.pa
 ERICKA SANCHEZ,68060844,ericka.sanchez2@unachi.ac.pa
 GUSTAVO NARANJO,68060971,gustavo.naranjo@unachi.ac.pa
 KAREN CASTILLO,68061195,karen.castillo1@unachi.ac.pa
-RICARDO CHAVARRÌA,68062026,ricardo.chavarria@unachi.ac.pa
+RICARDO CHAVARRÃŒA,68062026,ricardo.chavarria@unachi.ac.pa
 GABRIEL MURGAS,68063309,gabriel.murgas@unachi.ac.pa
 LEONELA MONTENEGRO,68063592,leonela.montenegro@unachi.ac.pa
 HAROLD PINTO,68063712,harold.pinto@unachi.ac.pa
@@ -6966,7 +6965,7 @@ SAMUEL QUIEL,68635325,samuel.quiel@unachi.ac.pa
 YeRANY RODRiGUEZ,68636246,yerany.rodriguez@unachi.ac.pa
 NATASHA AGUIRRE,68637338,natasha.aguirre@unachi.ac.pa
 YAILIN ALVARADO,68639149,yailin.alvarado@unachi.ac.pa
-HEIZEL ARAÙZ,68639257,heizel.arauz@unachi.ac.pa
+HEIZEL ARAÃ™Z,68639257,heizel.arauz@unachi.ac.pa
 MILAGRO BATISTA,68643917,milagro.batista@unachi.ac.pa
 ALANIS GONZALEZ,68640077,alanis.gonzalez2@unachi.ac.pa
 ASTRID PITTI,68640406,astrid.pitti@unachi.ac.pa

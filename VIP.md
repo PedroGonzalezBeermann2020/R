@@ -9,5 +9,7 @@ Este es un párrafo normal
 ### Este es otro título
 [![DAAD](https://github.com/PedroGonzalezBeermann2020/R/blob/main/daad.png)](https://github.com/PedroGonzalezBeermann2020/R/blob/main/daad.png)
 # Video Test
-[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/0.jpg)](https://youtu.be/nTQUwghvy5Q)
+
+https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg
 

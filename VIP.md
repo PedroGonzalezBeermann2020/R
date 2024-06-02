@@ -14,6 +14,9 @@ Este es un párrafo normal
 https://img.youtube.com/vi/<insert-youtube-video-id-here>/0.jpg
 
 > Este es un item1
+  - Item a
+  - Item b
+  - Item c
 
 > Este es un item2
 
